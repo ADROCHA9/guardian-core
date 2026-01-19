@@ -1,0 +1,26 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ggrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3fa37a"/>
+      <stop offset="100%" stop-color="#1f6b50"/>
+    </linearGradient>
+  </defs>
+
+  <path
+    d="M256 64
+       C150 64 64 150 64 256
+       C64 362 150 448 256 448
+       C330 448 390 406 416 352
+       L352 352
+       C330 390 296 416 256 416
+       C168 416 96 344 96 256
+       C96 168 168 96 256 96
+       C320 96 372 130 400 176
+       L256 176
+       L256 288
+       L448 288
+       C450 278 450 266 450 256
+       C450 150 362 64 256 64 Z"
+    fill="url(#ggrad)"
+  />
+</svg>

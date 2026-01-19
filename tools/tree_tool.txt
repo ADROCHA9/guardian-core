@@ -1,0 +1,20 @@
+Listado de rutas de carpetas
+El número de serie del volumen es F215-93D5
+C:.
+|   generate_hackerbot_sprites_advanced.py
+|   guardian_vaccine.py
+|   hackerbot_base.png.png
+|   register_node_from_vaccine.py
+|   reset_guardian_memory.py
+|   run_ai_analysis.py
+|   run_diff_report.py
+|   run_execute_changes.py
+|   run_ia_test_runner.py
+|   run_ia_to_sandbox.py
+|   tree_tool.txt
+|   __init__.py
+|   
+\---__pycache__
+        reset_guardian_memory.cpython-311.pyc
+        __init__.cpython-311.pyc
+        

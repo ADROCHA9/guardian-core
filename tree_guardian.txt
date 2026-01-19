@@ -1,0 +1,510 @@
+Listado de rutas de carpetas
+El número de serie del volumen es F215-93D5
+C:.
+|   .project_knowledge.json
+|   guardian_bot.txt
+|   guardian_icon.svg
+|   idea_evaluator.py
+|   main.py
+|   memory.py
+|   narrator.py
+|   parser.py
+|   proposal_engine.py
+|   question_engine.py
+|   relationer.py
+|   scanner.py
+|   tree_guardian.txt
+|   validator.py
+|   watchdog.py
+|   __init__.py
+|   
++---environment
+|   |   capability_profile.py
+|   |   environment_state.py
+|   |   hardware_probe.py
+|   |   mode_detector.py
+|   |   os_probe.py
+|   |   usb_detector.py
+|   |   __init__.py
+|   |   
+|   \---__pycache__
+|           environment_state.cpython-311.pyc
+|           __init__.cpython-311.pyc
+|           
++---execution
+|   |   ai_analysis_flow.py
+|   |   ai_consultation_step.py
+|   |   ai_to_code_generator.py
+|   |   applier.py
+|   |   authorization.py
+|   |   code_generator.py
+|   |   code_validator.py
+|   |   confirmation.py
+|   |   diff_engine.py
+|   |   evolution_log.py
+|   |   evolution_pipeline.py
+|   |   execution_guard.py
+|   |   sandbox_manager.py
+|   |   sandbox_tester.py
+|   |   test_runner.py
+|   |   __init__.py
+|   |   
+|   \---__pycache__
+|           applier.cpython-311.pyc
+|           authorization.cpython-311.pyc
+|           code_generator.cpython-311.pyc
+|           code_validator.cpython-311.pyc
+|           diff_engine.cpython-311.pyc
+|           evolution_pipeline.cpython-311.pyc
+|           sandbox_manager.cpython-311.pyc
+|           __init__.cpython-311.pyc
+|           
++---gui
+|   |   animation_engine.py
+|   |   app.py
+|   |   core_view.py
+|   |   theme.py
+|   |   __init__.py
+|   |   
+|   +---auth
+|   |   |   auth_screen.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           auth_screen.cpython-311.pyc
+|   |           __init__.cpython-311.pyc
+|   |           
+|   +---execution
+|   |       applier.py
+|   |       authorization.py
+|   |       __init__.py
+|   |       
+|   +---layouts
+|   |   |   main_layout.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           main_layout.cpython-311.pyc
+|   |           __init__.cpython-311.pyc
+|   |           
+|   +---panels
+|   |   |   activity_panel.py
+|   |   |   advanced_permissions_panel.py
+|   |   |   annual_evolution_panel.py
+|   |   |   cognitive_dependencies_canvas_panel.py
+|   |   |   cognitive_dependencies_panel.py
+|   |   |   communication_panel.py
+|   |   |   control_panel.py
+|   |   |   decision_replay_panel.py
+|   |   |   environment_panel.py
+|   |   |   error_monitor_panel.py
+|   |   |   error_patterns_panel.py
+|   |   |   evolution_actions_panel.py
+|   |   |   evolution_control_panel.py
+|   |   |   evolution_panel.py
+|   |   |   evolution_timeline_panel.py
+|   |   |   guardian_plans_panel.py
+|   |   |   guided_suggestions_panel.py
+|   |   |   gui_hints_panel.py
+|   |   |   heuristics_panel.py
+|   |   |   history_panel.py
+|   |   |   integrity_panel.py
+|   |   |   internal_reasoning_panel.py
+|   |   |   lab_item.py
+|   |   |   lab_panel.py
+|   |   |   memory_inspector_panel.py
+|   |   |   metrics_dashboard_panel.py
+|   |   |   metrics_panel.py
+|   |   |   mind_versions_panel.py
+|   |   |   nodes_panel.py
+|   |   |   project_manager_panel.py
+|   |   |   proposals_panel.py
+|   |   |   proposal_simulator_panel.py
+|   |   |   security_panel.py
+|   |   |   weekly_comparison_panel.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           communication_panel.cpython-311.pyc
+|   |           environment_panel.cpython-311.pyc
+|   |           evolution_actions_panel.cpython-311.pyc
+|   |           evolution_panel.cpython-311.pyc
+|   |           gui_hints_panel.cpython-311.pyc
+|   |           history_panel.cpython-311.pyc
+|   |           lab_item.cpython-311.pyc
+|   |           lab_panel.cpython-311.pyc
+|   |           memory_inspector_panel.cpython-311.pyc
+|   |           metrics_panel.cpython-311.pyc
+|   |           nodes_panel.cpython-311.pyc
+|   |           project_manager_panel.cpython-311.pyc
+|   |           proposals_panel.cpython-311.pyc
+|   |           security_panel.cpython-311.pyc
+|   |           __init__.cpython-311.pyc
+|   |           
+|   +---services
+|   |       guardian_launcher.py
+|   |       service_loop.py
+|   |       usb_service.py
+|   |       __init__.py
+|   |       
+|   +---widgets
+|   |   |   guardian_dna.py
+|   |   |   guardian_pulse.py
+|   |   |   learning_indicator.py
+|   |   |   project_dna.py
+|   |   |   project_pulse.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           guardian_dna.cpython-311.pyc
+|   |           guardian_pulse.cpython-311.pyc
+|   |           learning_indicator.cpython-311.pyc
+|   |           project_dna.cpython-311.pyc
+|   |           project_pulse.cpython-311.pyc
+|   |           __init__.cpython-311.pyc
+|   |           
+|   \---__pycache__
+|           animation_engine.cpython-311.pyc
+|           app.cpython-311.pyc
+|           core_view.cpython-311.pyc
+|           theme.cpython-311.pyc
+|           __init__.cpython-311.pyc
+|           
++---intelligence
+|   |   ai_consultant.py
+|   |   ai_orchestrator.py
+|   |   ai_registry.py
+|   |   knowledge_bridge.py
+|   |   ollama_client.py
+|   |   prompt_builder.py
+|   |   response_validator.py
+|   |   __init__.py
+|   |   
+|   \---__pycache__
+|           ai_consultant.cpython-311.pyc
+|           ai_orchestrator.cpython-311.pyc
+|           ai_registry.cpython-311.pyc
+|           ollama_client.cpython-311.pyc
+|           prompt_builder.cpython-311.pyc
+|           __init__.cpython-311.pyc
+|           
++---metrics
+|   |   system_metrics.py
+|   |   __init__.py
+|   |   
+|   \---__pycache__
+|           system_metrics.cpython-311.pyc
+|           __init__.cpython-311.pyc
+|           
++---security
+|   |   firewall.py
+|   |   identity_manager.py
+|   |   integrity_guard.py
+|   |   __init__.py
+|   |   
+|   +---authentication
+|   |   |   auth_flow.py
+|   |   |   password_guard.py
+|   |   |   voice_auth.py
+|   |   |   voice_capture.py
+|   |   |   voice_guard.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           auth_flow.cpython-311.pyc
+|   |           password_guard.cpython-311.pyc
+|   |           voice_auth.cpython-311.pyc
+|   |           voice_guard.cpython-311.pyc
+|   |           __init__.cpython-311.pyc
+|   |           
+|   +---identity
+|   |   |   birth_manager.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           birth_manager.cpython-311.pyc
+|   |           __init__.cpython-311.pyc
+|   |           
+|   +---root_protection
+|   |   |   root_resolver.py
+|   |   |   root_watcher.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           root_resolver.cpython-311.pyc
+|   |           root_watcher.cpython-311.pyc
+|   |           __init__.cpython-311.pyc
+|   |           
+|   +---voice
+|   |   |   audio_capture.py
+|   |   |   voice_registry.py
+|   |   |   __init__.py
+|   |   |   
+|   |   +---data
+|   |   |       06039a96aa0dac2e77b0e08f3f1d8b1a0264cda7870083ec3605e26f8559f349.voice
+|   |   |       14bd0ed3103f6aed61bf8950976c35fd6346e97b3d8bf8787920ebac686718ad.voice
+|   |   |       1731ac4e1fdcb31c9517f9ac2a6f6776559076b0efe21580dadb0fc0d74a393e.voice
+|   |   |       2b36c5917b2454390c512fcd765dcf4f89e3c14841db53026033847db5f85e24.voice
+|   |   |       344e4f5ee17cb7032445ece01a3f132dc05564a6b87e138bce1117e84ea92624.voice
+|   |   |       3710da750887d7ac1ba5edf1eb22c838e1277caf244c5ce88203f05eeeccb178.voice
+|   |   |       3ecb0867833a939957b75efd09089a8ac1e56aae6338ba1dd612198fdfb2c977.voice
+|   |   |       50cfc0615f25eb8c2af531bdd5503df0777b9f73e6540eaf9cb71c759d2942d7.voice
+|   |   |       69e314ae1bc56fc8630ca1dd411fb43b81772f1d4e1db21a84f56987a93a216c.voice
+|   |   |       6ad7d090e7d5b4c04a1a3239212f9ae9d1feba0512e8fe0ca64b29ef5c956c38.voice
+|   |   |       6fa5f2298ea661e0f0e5a5383bf3bfcbd09f90c2be840a9acd6d2aa1c45a9ed6.voice
+|   |   |       918336c66701b300131467fdd42f12dd284fcb4a4699ed3046ebab608f2d9bfb.voice
+|   |   |       95a63a8167459bea2f21b143a833ebc395269674db4c72019cf52f67eeff9405.voice
+|   |   |       961b3598930363c113287992ca3fade43523acf6506bf3f4e2ea18b84186b2f7.voice
+|   |   |       977468429cb1e1d5d8f5ab437218653f5cb96f14977a9215b85d81cf22f7e870.voice
+|   |   |       98135ffcdfb372efa8f6fcebb9cc3904bc012ce083ba5907581e53310b48f4d0.voice
+|   |   |       9dea31bac8a5c3e8d730ade208ffcb53fff20f4cfbda32bd43716633cdc758e9.voice
+|   |   |       a70c4832b53e135370f675f7688ba41998868c69b3d671de2c4e0b470c0cbb00.voice
+|   |   |       a78820af9e8a231c979039319c0983f3b9d6c920d5639f80e6f2a6c51b411b48.voice
+|   |   |       ab6eb67833bc434c4f4a633a1be27ad1b1ec607aa8945a03a07b01cd37f27c80.voice
+|   |   |       af56680fcb657f550d6881f3bc010a3fd3661fc47de247821fab8732b60b26d1.voice
+|   |   |       b2447d3b7416b9c191b71076fb6978d804307417bd7b1f532f5b2c64074d7017.voice
+|   |   |       b3ea0cae6091954b904150f4a1c32622d12551ccad27c812883aca45c4af5567.voice
+|   |   |       bdb26e0bfc934ec022e1320b125ac41bd13fc9637fa4a53ebbb4655a8eeb90dc.voice
+|   |   |       cf7ad8f7c2b4a9c2cab9edaea707b6457f6729ee90b3ccd17c96cf069659eba2.voice
+|   |   |       d80c327401c6fd5370107aa76fba859b9244b09f4ef5773917fe460bbf1a8d16.voice
+|   |   |       d8134d05641545317b4ad1705126a8b1f363969171a3607539c9bb981d80958a.voice
+|   |   |       e19b1a8827e9b32f4a5c4193b3505365eeed515ac7c8469401eaf3684c828eca.voice
+|   |   |       e3f6dc1dbe5208bd01c12ffb9248afdaea76559020b043320e2ad9f7cacc341c.voice
+|   |   |       f19a2cf04bf385167ded0314b908c65262ce949a027cf8d71ca98bc7976d895d.voice
+|   |   |       
+|   |   \---__pycache__
+|   |           audio_capture.cpython-311.pyc
+|   |           voice_registry.cpython-311.pyc
+|   |           __init__.cpython-311.pyc
+|   |           
+|   \---__pycache__
+|           firewall.cpython-311.pyc
+|           identity_manager.cpython-311.pyc
+|           integrity_guard.cpython-311.pyc
+|           __init__.cpython-311.pyc
+|           
++---services
+|   |   adaptive_help_communication_task.py
+|   |   adaptive_intelligence.py
+|   |   adaptive_module_evolution_task.py
+|   |   authorized_code_modification_task.py
+|   |   authorized_execution_task.py
+|   |   autonomous_goal_selection_task.py
+|   |   autonomy_explanation_task.py
+|   |   auto_proposal_engine.py
+|   |   codebase_scanner_task.py
+|   |   cognition_bridge.py
+|   |   cognitive_cleanup_task.py
+|   |   cognitive_improvement_evaluator_task.py
+|   |   cognitive_learning_layer.py
+|   |   cognitive_load_regulator_task.py
+|   |   cognitive_orchestrator.py
+|   |   cognitive_reasoning_task.py
+|   |   cognitive_saturation_monitor_task.py
+|   |   communication_bridge.py
+|   |   compare_and_integrate_code_task.py
+|   |   concept_dependency_resolver_task.py
+|   |   concept_state_updater_task.py
+|   |   continuous_work_loop.py
+|   |   decision_review_task.py
+|   |   deep_memory_optimization_task.py
+|   |   encoding_guard.py
+|   |   error_pattern_mining_task.py
+|   |   ethical_autonomy_limits_task.py
+|   |   ethical_explainer.py
+|   |   evaluate_practical_utility_task.py
+|   |   evolutionary_planning_task.py
+|   |   evolution_control_core_task.py
+|   |   evolution_orchestrator.py
+|   |   evolution_pause_resume_task.py
+|   |   evolution_stop_decision_task.py
+|   |   execution_planner.py
+|   |   execution_transition.py
+|   |   goal_justification_task.py
+|   |   guardian_cognitive_core.py
+|   |   guardian_service_loop.py
+|   |   guided_learning_task.py
+|   |   help_explanation_task.py
+|   |   help_intensity_calibration_task.py
+|   |   help_prioritization_task.py
+|   |   human_dependency_decay_task.py
+|   |   human_help_exclusion_task.py
+|   |   human_help_learning_task.py
+|   |   human_help_request_task.py
+|   |   human_help_style_modeling_task.py
+|   |   human_intervention_comparison_task.py
+|   |   human_trust_negotiation_task.py
+|   |   idea_critical_evaluator_task.py
+|   |   idea_negotiation_task.py
+|   |   integration_manager.py
+|   |   intentional_python_learning_task.py
+|   |   intervention_preference_task.py
+|   |   knowledge_defense_task.py
+|   |   knowledge_signature_task.py
+|   |   knowledge_versioning_task.py
+|   |   learning_intent_planner_task.py
+|   |   library_expansion_task.py
+|   |   live_gui_watcher.py
+|   |   long_term_help_reengagement_task.py
+|   |   memory_cleaner.py
+|   |   mental_state_comparison_task.py
+|   |   mental_state_export_task.py
+|   |   metrics_loop.py
+|   |   micro_test_engine_task.py
+|   |   micro_test_task.py
+|   |   mind_versioning_task.py
+|   |   module_builder_task.py
+|   |   module_cognition_task.py
+|   |   module_integration_task.py
+|   |   module_refactor_proposal_task.py
+|   |   module_value_evaluator_task.py
+|   |   multi_month_report_task.py
+|   |   operator_communication_filter_task.py
+|   |   operator_permission_request_task.py
+|   |   passive_python_learning_task.py
+|   |   pause_recovery_evaluator_task.py
+|   |   plan_human_explanation_task.py
+|   |   plan_self_evaluation_task.py
+|   |   plan_vs_result_evaluator_task.py
+|   |   progress_evaluation_task.py
+|   |   progress_prediction_task.py
+|   |   python_learning_priority_task.py
+|   |   resource_guard.py
+|   |   resource_monitor.py
+|   |   root_integrity_lock_task.py
+|   |   safe_code_execution_task.py
+|   |   sandbox_code_engine.py
+|   |   sandbox_manager.py
+|   |   sandbox_reporter.py
+|   |   secure_microtest_sandbox.py
+|   |   self_analysis_engine.py
+|   |   self_backup_restore_task.py
+|   |   self_code_evolution_task.py
+|   |   self_code_reflection_task.py
+|   |   self_correction_agent_task.py
+|   |   self_desing_limit_detection_task.py
+|   |   self_explanation_quality_task.py
+|   |   self_gui_creation_task.py
+|   |   self_recognition_task.py
+|   |   startup_orchestrator.py
+|   |   strategy_adjustment_task.py
+|   |   strategy_change_explanation_task.py
+|   |   strategy_engine.py
+|   |   strategy_history_comparison_task.py
+|   |   structural_redesing_proposal_task.py
+|   |   system_throttle.py
+|   |   task_engine.py
+|   |   usb_node_manager.py
+|   |   weekly_planning_task.py
+|   |   weekly_report_export_task.py
+|   |   zero_dependency_optimization_task.py
+|   |   __init__.py
+|   |   
+|   \---__pycache__
+|           adaptive_help_communication_task.cpython-311.pyc
+|           adaptive_intelligence.cpython-311.pyc
+|           adaptive_module_evolution_task.cpython-311.pyc
+|           autonomous_goal_selection_task.cpython-311.pyc
+|           autonomy_explanation_task.cpython-311.pyc
+|           auto_proposal_engine.cpython-311.pyc
+|           cognitive_cleanup_task.cpython-311.pyc
+|           cognitive_learning_layer.cpython-311.pyc
+|           cognitive_load_regulator_task.cpython-311.pyc
+|           cognitive_orchestrator.cpython-311.pyc
+|           cognitive_reasoning_task.cpython-311.pyc
+|           communication_bridge.cpython-311.pyc
+|           compare_and_integrate_code_task.cpython-311.pyc
+|           concept_dependency_resolver_task.cpython-311.pyc
+|           concept_state_updater_task.cpython-311.pyc
+|           continuous_work_loop.cpython-311.pyc
+|           decision_review_task.cpython-311.pyc
+|           encoding_guard.cpython-311.pyc
+|           error_pattern_mining_task.cpython-311.pyc
+|           ethical_autonomy_limits_task.cpython-311.pyc
+|           ethical_explainer.cpython-311.pyc
+|           evaluate_practical_utility_task.cpython-311.pyc
+|           evolutionary_planning_task.cpython-311.pyc
+|           evolution_orchestrator.cpython-311.pyc
+|           execution_planner.cpython-311.pyc
+|           execution_transition.cpython-311.pyc
+|           goal_justification_task.cpython-311.pyc
+|           guardian_cognitive_core.cpython-311.pyc
+|           guardian_service_loop.cpython-311.pyc
+|           help_explanation_task.cpython-311.pyc
+|           help_intensity_calibration_task.cpython-311.pyc
+|           help_prioritization_task.cpython-311.pyc
+|           human_dependency_decay_task.cpython-311.pyc
+|           human_help_exclusion_task.cpython-311.pyc
+|           human_help_learning_task.cpython-311.pyc
+|           human_help_request_task.cpython-311.pyc
+|           human_help_style_modeling_task.cpython-311.pyc
+|           human_intervention_comparison_task.cpython-311.pyc
+|           human_trust_negotiation_task.cpython-311.pyc
+|           integration_manager.cpython-311.pyc
+|           intentional_python_learning_task.cpython-311.pyc
+|           intervention_preference_task.cpython-311.pyc
+|           learning_intent_planner_task.cpython-311.pyc
+|           live_gui_watcher.cpython-311.pyc
+|           long_term_help_reengagement_task.cpython-311.pyc
+|           memory_cleaner.cpython-311.pyc
+|           metrics_loop.cpython-311.pyc
+|           micro_test_engine_task.cpython-311.pyc
+|           module_integration_task.cpython-311.pyc
+|           module_value_evaluator_task.cpython-311.pyc
+|           passive_python_learning_task.cpython-311.pyc
+|           pause_recovery_evaluator_task.cpython-311.pyc
+|           plan_human_explanation_task.cpython-311.pyc
+|           plan_vs_result_evaluator_task.cpython-311.pyc
+|           progress_evaluation_task.cpython-311.pyc
+|           sandbox_code_engine.cpython-311.pyc
+|           sandbox_manager.cpython-311.pyc
+|           sandbox_reporter.cpython-311.pyc
+|           secure_microtest_sandbox.cpython-311.pyc
+|           self_analysis_engine.cpython-311.pyc
+|           self_code_reflection_task.cpython-311.pyc
+|           self_correction_agent_task.cpython-311.pyc
+|           self_explanation_quality_task.cpython-311.pyc
+|           self_recognition_task.cpython-311.pyc
+|           strategy_adjustment_task.cpython-311.pyc
+|           strategy_change_explanation_task.cpython-311.pyc
+|           strategy_engine.cpython-311.pyc
+|           strategy_history_comparison_task.cpython-311.pyc
+|           system_throttle.cpython-311.pyc
+|           weekly_planning_task.cpython-311.pyc
+|           zero_dependency_optimization_task.cpython-311.pyc
+|           __init__.cpython-311.pyc
+|           
++---system
+|   |   icon_manager.py
+|   |   self_registration.py
+|   |   __init__.py
+|   |   
+|   \---__pycache__
+|           icon_manager.cpython-311.pyc
+|           self_registration.cpython-311.pyc
+|           __init__.cpython-311.pyc
+|           
++---tools
+|   |   guardian_vaccine.py
+|   |   register_node_from_vaccine.py
+|   |   reset_guardian_memory.py
+|   |   run_ai_analysis.py
+|   |   run_diff_report.py
+|   |   run_execute_changes.py
+|   |   run_ia_test_runner.py
+|   |   run_ia_to_sandbox.py
+|   |   __init__.py
+|   |   
+|   \---__pycache__
+|           reset_guardian_memory.cpython-311.pyc
+|           __init__.cpython-311.pyc
+|           
+\---__pycache__
+        idea_evaluator.cpython-311.pyc
+        memory.cpython-311.pyc
+        parser.cpython-311.pyc
+        proposal_engine.cpython-311.pyc
+        question_engine.cpython-311.pyc
+        relationer.cpython-311.pyc
+        scanner.cpython-311.pyc
+        
