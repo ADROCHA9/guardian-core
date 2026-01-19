@@ -1,6 +1,6 @@
 GUARDIAN – REPORTE SEMANAL DE EVOLUCIÓN
 ==================================================
-Fecha UTC: 2026-01-19T02:34:07.141526
+Fecha UTC: 2026-01-19T02:45:56.477972
 
 ESTADO GENERAL
 --------------------
@@ -8,7 +8,7 @@ Estado: shutdown_requested
 Modo cognitivo: thinking
 Memory mode: growth
 Learning mode: aggressive
-Heartbeat actual: 32306
+Heartbeat actual: 32448
 
 APRENDIZAJE Y MEMORIA
 --------------------
@@ -19,16 +19,16 @@ Entradas de Python aprendidas: 4
 
 EVOLUCIÓN RECIENTE
 --------------------
-- 2026-01-19T02:33:19.227825 :: runtime_exception :: 'max_cpu_percent'
-- 2026-01-19T02:33:24.233066 :: runtime_exception :: 'max_cpu_percent'
-- 2026-01-19T02:33:29.237866 :: runtime_exception :: 'max_cpu_percent'
-- 2026-01-19T02:33:34.242904 :: runtime_exception :: 'max_cpu_percent'
-- 2026-01-19T02:33:39.244052 :: runtime_exception :: 'max_cpu_percent'
-- 2026-01-19T02:33:44.249075 :: runtime_exception :: 'max_cpu_percent'
-- 2026-01-19T02:33:49.254068 :: runtime_exception :: 'max_cpu_percent'
-- 2026-01-19T02:33:54.259005 :: runtime_exception :: 'max_cpu_percent'
-- 2026-01-19T02:33:59.264017 :: runtime_exception :: 'max_cpu_percent'
-- 2026-01-19T02:34:04.269046 :: runtime_exception :: 'max_cpu_percent'
+- 2026-01-19T02:45:09.890457 :: runtime_exception :: 'max_cpu_percent'
+- 2026-01-19T02:45:14.895374 :: runtime_exception :: 'max_cpu_percent'
+- 2026-01-19T02:45:19.900028 :: runtime_exception :: 'max_cpu_percent'
+- 2026-01-19T02:45:24.904975 :: runtime_exception :: 'max_cpu_percent'
+- 2026-01-19T02:45:29.909990 :: runtime_exception :: 'max_cpu_percent'
+- 2026-01-19T02:45:34.915023 :: runtime_exception :: 'max_cpu_percent'
+- 2026-01-19T02:45:39.919963 :: runtime_exception :: 'max_cpu_percent'
+- 2026-01-19T02:45:44.921277 :: runtime_exception :: 'max_cpu_percent'
+- 2026-01-19T02:45:49.926047 :: runtime_exception :: 'max_cpu_percent'
+- 2026-01-19T02:45:54.931037 :: runtime_exception :: 'max_cpu_percent'
 
 AUTO-EVALUACIÓN
 --------------------
